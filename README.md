@@ -8,9 +8,15 @@ Everyday, values are manually entered from the district edition.
 
 Data available from 1st Dec 2018 until 20th March 2019
 
+### Distribution of prices
+
 ![prices](prices.png)
 
 Instances where vegetable prices aren't available (sporadic reporting) are replaced with zeros
+
+### Trend
+
+![trend](trend.png)
 
 | Name | Other names |
 | ---- | ------------------ |
