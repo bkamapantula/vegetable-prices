@@ -6,7 +6,11 @@ Sourced from [Eenadu newspaper](http://epaper.eenadu.net/)
 
 Everyday, values are manually entered from the district edition.
 
-Data available from 1st Dec 2018 until mid-March 2019
+Data available from 1st Dec 2018 until 20th March 2019
+
+![prices](prices.png)
+
+Instances where vegetable prices aren't available (sporadic reporting) are replaced with zeros
 
 ## TODO
 
