@@ -45,6 +45,10 @@ Pairwise (vegetable pairs) correlation (Pearson's) is determined and visualized.
 
 ![correlation](correlation.png)
 
+### Pairwise trends
+
+![pairwise trends](pairwise-trend.png)
+
 ## TODO
 
 - Scrape from Eenadu online newspaper
